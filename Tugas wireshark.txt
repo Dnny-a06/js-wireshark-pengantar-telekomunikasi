@@ -1,0 +1,16 @@
+Troughtput :
+185558/20.831 = 8,907 bytes/s
+1 bytes = 8 bit
+8,907 X 8 = 71k bits/s
+
+Packet loss : 0%
+
+Delay  :
+Total Delay = 20.83061 s
+Rata-rata Delay = 0.062181 s
+
+Jitter  :
+total jitter : 831.369
+rata rata jitter : 2.4817
+
+
